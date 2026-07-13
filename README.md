@@ -119,6 +119,39 @@ CODATA 2018: $G = 6.67430 \times 10^{-11}\ \text{m}^3\cdot\text{kg}^{-1}\cdot\te
 
 Get the latest installer from [Releases](https://github.com/ewencai/PolyBodyGrav/releases).
 
+
+## Screenshots
+
+### Sphere Forward Modeling
+![01 — Sphere](screenshots/01_sphere_forward.png)
+
+### Parameter Panel
+![02 — Parameters](screenshots/02_parameter_panel.png)
+
+### 3D Visualization
+![03 — 3D View](screenshots/03_3d_visualization.png)
+
+### Multi-Body Setup
+![04 — MultiBody](screenshots/04_multibody_setup.png)
+
+### Parameter Sensitivity Analysis
+![05 — Sensitivity Scan](screenshots/05_sensitivity_scan.png)
+
+### Large Grid Result
+![06 — Large Grid](screenshots/06_large_grid_result.png)
+
+### Cuboid Forward Modeling
+![07 — Cuboid](screenshots/07_cuboid_forward.png)
+
+### Contour Map & 3D View
+![08 — Contour & 3D](screenshots/08_contour_and_3d.png)
+
+### Cylinder Forward Modeling
+![09 — Cylinder](screenshots/09_cylinder_forward.png)
+
+### Frustum Forward Modeling
+![10 — Frustum](screenshots/10_frustum_forward.png)
+
 ## Documentation
 
 | Document | Content |
